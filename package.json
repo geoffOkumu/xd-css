@@ -1,0 +1,15 @@
+{
+  "name": "xd-css",
+  "version": "0.1.0",
+  "description": "css code snippets for common ux casses",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "css",
+    "annimation"
+  ],
+  "author": "geoffOkumu",
+  "license": "ISC"
+}
